@@ -1,0 +1,1 @@
+grep -E "array|print|shape|size|ndim|dtype|itemsize|\[.*\]" ~/.python_history

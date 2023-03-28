@@ -1,0 +1,1 @@
+grep -E "print|array|dtype" ~/.python_history
